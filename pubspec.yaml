@@ -1,0 +1,17 @@
+name: dart_jwt_example
+description: A web server built using the shelf package.
+# version: 1.0.0
+# homepage: https://www.example.com
+# author: Kenneth Reilly <email@example.com>
+
+environment:
+  sdk: '>=2.1.0 <3.0.0'
+
+dependencies:
+  args: ^1.4.2
+  shelf: ^0.7.2
+  dotenv: ^1.0.0
+  jaguar_jwt: ^2.1.6
+
+dev_dependencies:
+  pedantic: ^1.0.0
