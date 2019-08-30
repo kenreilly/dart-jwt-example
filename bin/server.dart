@@ -5,8 +5,6 @@ import 'package:shelf/shelf_io.dart' as io;
 import 'package:dart_jwt_example/auth-provider.dart';
 import 'package:dart_jwt_example/config.dart';
 
-// import 'package:dart_jwt_example/lauth.dart';
-
 abstract class Server {
 
 	static bool debug;

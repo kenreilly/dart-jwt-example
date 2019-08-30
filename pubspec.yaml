@@ -1,8 +1,8 @@
 name: dart_jwt_example
-description: A web server built using the shelf package.
+description: An example project showing how to authenticate with JWT in Dart
 # version: 1.0.0
-# homepage: https://www.example.com
-# author: Kenneth Reilly <email@example.com>
+# homepage: https://innovationgroup.tech
+# author: Kenneth Reilly <kenneth@innovationgroup.tech>
 
 environment:
   sdk: '>=2.1.0 <3.0.0'
