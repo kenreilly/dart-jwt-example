@@ -13,7 +13,7 @@ To run this project:
 ## Testing
 * start the server with `$ dart bin/server.dart`
 * try an API call with `$ curl localhost:3000/hello` (should be rejected)
-* authenticate with `$ curl localhost:3000/auth -d '{"username":"test", "password":"insecure"}'` (should return a JWT, copy this)
+* authenticate with `$ curl localhost:3000/login -d '{"username":"test", "password":"insecure"}'` (should return a JWT, copy this)
 * retry API call with `$ curl localhost:3000/hello -H "Authorization: Bearer YOUR_TOKEN"` (should return OK)
 
 ## Contributions
