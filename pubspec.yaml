@@ -1,8 +1,8 @@
 name: dart_jwt_example
 description: An example project showing how to authenticate with JWT in Dart
-# version: 1.0.0
-# homepage: https://innovationgroup.tech
-# author: Kenneth Reilly <kenneth@innovationgroup.tech>
+author: Kenneth Reilly <@8_bit_hacker>
+homepage: https://github.com/kenreilly/dart-jwt-example
+version: 1.0.0
 
 environment:
   sdk: '>=2.1.0 <3.0.0'
